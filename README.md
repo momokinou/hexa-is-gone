@@ -2,6 +2,7 @@
 # Hexa(is)gone
 
 This README is a list of things that i want (or not?) in my game.
+This is a temporary README and is subject to change.
 
 It will be divided in multiples sections so that you can look at what you prefer.
 
